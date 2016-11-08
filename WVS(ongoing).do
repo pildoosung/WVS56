@@ -152,9 +152,6 @@ gen in_outgroup=cent_ingroup*cent_outgroup_c
 gen out_ingroup=cent_outgroup*cent_ingroup_c
 gen out_outgroup=cent_outgroup*cent_outgroup_c
 
-
-
-
 *Multiple imputation at lindividual level variables (not done yet) 
 
 mi update
